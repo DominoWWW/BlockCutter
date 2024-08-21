@@ -1,0 +1,22 @@
+{
+	"result": {
+		"id": "minecraft:granite",
+		"count": 4
+	},
+	"type": "crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "minecraft:granite_wall"
+		},
+		{
+			"item": "minecraft:granite_wall"
+		},
+		{
+			"item": "minecraft:granite_wall"
+		},
+		{
+			"item": "minecraft:granite_wall"
+		}
+	],
+	"group": "wall_to_block"
+}

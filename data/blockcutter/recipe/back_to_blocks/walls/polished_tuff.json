@@ -1,0 +1,22 @@
+{
+	"result": {
+		"id": "minecraft:polished_tuff",
+		"count": 4
+	},
+	"type": "crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "minecraft:polished_tuff_wall"
+		},
+		{
+			"item": "minecraft:polished_tuff_wall"
+		},
+		{
+			"item": "minecraft:polished_tuff_wall"
+		},
+		{
+			"item": "minecraft:polished_tuff_wall"
+		}
+	],
+	"group": "wall_to_block"
+}

@@ -1,0 +1,22 @@
+{
+	"result": {
+		"id": "minecraft:mossy_cobblestone",
+		"count": 4
+	},
+	"type": "crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "minecraft:mossy_cobblestone_wall"
+		},
+		{
+			"item": "minecraft:mossy_cobblestone_wall"
+		},
+		{
+			"item": "minecraft:mossy_cobblestone_wall"
+		},
+		{
+			"item": "minecraft:mossy_cobblestone_wall"
+		}
+	],
+	"group": "wall_to_block"
+}

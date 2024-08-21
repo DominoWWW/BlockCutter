@@ -1,0 +1,22 @@
+{
+	"result": {
+		"id": "minecraft:cobblestone",
+		"count": 4
+	},
+	"type": "crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "minecraft:cobblestone_wall"
+		},
+		{
+			"item": "minecraft:cobblestone_wall"
+		},
+		{
+			"item": "minecraft:cobblestone_wall"
+		},
+		{
+			"item": "minecraft:cobblestone_wall"
+		}
+	],
+	"group": "wall_to_block"
+}

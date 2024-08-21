@@ -1,0 +1,22 @@
+{
+	"result": {
+		"id": "minecraft:tuff_bricks",
+		"count": 4
+	},
+	"type": "crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "minecraft:tuff_brick_wall"
+		},
+		{
+			"item": "minecraft:tuff_brick_wall"
+		},
+		{
+			"item": "minecraft:tuff_brick_wall"
+		},
+		{
+			"item": "minecraft:tuff_brick_wall"
+		}
+	],
+	"group": "wall_to_block"
+}

@@ -1,0 +1,22 @@
+{
+	"result": {
+		"id": "minecraft:tuff",
+		"count": 4
+	},
+	"type": "crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "minecraft:tuff_wall"
+		},
+		{
+			"item": "minecraft:tuff_wall"
+		},
+		{
+			"item": "minecraft:tuff_wall"
+		},
+		{
+			"item": "minecraft:tuff_wall"
+		}
+	],
+	"group": "wall_to_block"
+}

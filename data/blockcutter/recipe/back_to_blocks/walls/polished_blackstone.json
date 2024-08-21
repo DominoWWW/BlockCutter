@@ -1,0 +1,22 @@
+{
+	"result": {
+		"id": "minecraft:polished_blackstone",
+		"count": 4
+	},
+	"type": "crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "minecraft:polished_blackstone_wall"
+		},
+		{
+			"item": "minecraft:polished_blackstone_wall"
+		},
+		{
+			"item": "minecraft:polished_blackstone_wall"
+		},
+		{
+			"item": "minecraft:polished_blackstone_wall"
+		}
+	],
+	"group": "wall_to_block"
+}
